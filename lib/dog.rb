@@ -1,7 +1,5 @@
 class Dog
 end
   fido = Dog.new
-  def snoopy
-    Dog.new
-  end
+  snoopy = Dog.new
   lassie = Dog.new
