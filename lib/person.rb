@@ -3,5 +3,6 @@ class Person
     Person.new
   end
   def alan_kay
+    Person.new
   end
 end
