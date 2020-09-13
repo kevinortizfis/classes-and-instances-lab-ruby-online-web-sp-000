@@ -1,4 +1,5 @@
 class Person
+end
   def adele_goldberg
     Person.new
   end
